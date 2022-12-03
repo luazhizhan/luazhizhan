@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Native Android Development**
 
-- 💬 Ask me about **Frontend, React, Node.js, Cloud**
+- 💬 Ask me about **Frontend, React, Node.js, Cloud Computing**
 
 - ⚡ Fun fact **The first language I learn was Java**
 
