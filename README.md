@@ -1,6 +1,4 @@
-## About Me
-
-Hey there 👋<br><br>I’m Zhi Zhan, a full-stack engineer from Singapore!
+# Hey there 👋
 
 ## Tech Stack
 
